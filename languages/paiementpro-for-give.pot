@@ -1,0 +1,59 @@
+# Copyright (C) 2020 PaiementPro for Give
+# This file is distributed under the same license as the PaiementPro for Give package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PaiementPro for Give\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: PaiementPro Team <hello@mehulgohil.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/kohp-ministries/paiementpro-for-give/issues/new\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/filters.php:16
+msgid "PaiementPro - MTN Money"
+msgstr ""
+
+#: includes/filters.php:17
+msgid "MTN Money"
+msgstr ""
+
+#: includes/filters.php:21
+msgid "PaiementPro - Moov Money"
+msgstr ""
+
+#: includes/filters.php:22
+msgid "Moov Money"
+msgstr ""
+
+#: includes/filters.php:26
+msgid "PaiementPro - Orange Money"
+msgstr ""
+
+#: includes/filters.php:27
+msgid "Orange Money"
+msgstr ""
+
+#: includes/filters.php:31
+msgid "PaiementPro - Credit Card"
+msgstr ""
+
+#: includes/filters.php:32
+msgid "Credit Card"
+msgstr ""
+
+#: includes/payment-methods/class-paiementpro4give-moov-money.php:55, includes/payment-methods/class-paiementpro4give-mtn-money.php:55, includes/payment-methods/class-paiementpro4give-orange-money.php:55
+msgid "Payment Error"
+msgstr ""
+
+#. translators: %s: payment data
+#. translators: %s: payment data
+#. translators: %s: payment data
+#: includes/payment-methods/class-paiementpro4give-moov-money.php:58, includes/payment-methods/class-paiementpro4give-mtn-money.php:58, includes/payment-methods/class-paiementpro4give-orange-money.php:58
+msgid "Payment creation failed before processing payment via PaiementPro. Payment data: %s"
+msgstr ""
